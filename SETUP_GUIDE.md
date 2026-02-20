@@ -31,10 +31,10 @@ You should see:
 Your `.env` file is already configured with:
 
 ```env
-MONGODB_URI=mongodb+srv://dbattendance:dbattendancepassword@cluster0.hyedq2n.mongodb.net/cse-attendance?retryWrites=true&w=majority&appName=Cluster0
-JWT_SECRET=cse_pune_attendance_secret_2024
+MONGODB_URI=
+JWT_SECRET=
 PORT=5000
-GEMINI_API_KEY=AIzaSyCaOlsRYMSNyh-DqERZ1IfZ6kznCQuSO6U
+GEMINI_API_KEY=
 ```
 
 ✅ **All set!** Your Gemini API key is already configured.
