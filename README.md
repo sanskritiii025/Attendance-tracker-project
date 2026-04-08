@@ -93,32 +93,32 @@ npm run dev
 
 ```
 ┌─────────────────────────────────────────────────────────┐
-│                    STUDENT INTERFACE                     │
+│                    STUDENT INTERFACE                    │
 │  • Chat window with message history                     │
-│  • Real-time responses                                   │
-│  • Loading indicators                                    │
+│  • Real-time responses                                  │
+│  • Loading indicators                                   │
 └─────────────────────────────────────────────────────────┘
                           ↓
 ┌─────────────────────────────────────────────────────────┐
-│                   CHATBOT API LAYER                      │
-│  • Query analysis                                        │
-│  • Material search                                       │
-│  • Attendance retrieval                                  │
-│  • Context building                                      │
+│                   CHATBOT API LAYER                     │
+│  • Query analysis                                       │
+│  • Material search                                      │
+│  • Attendance retrieval                                 │
+│  • Context building                                     │
 └─────────────────────────────────────────────────────────┘
                           ↓
 ┌─────────────────────────────────────────────────────────┐
-│                   GOOGLE GEMINI AI                       │
-│  • Natural language processing                           │
-│  • Context-aware generation                              │
-│  • Intelligent responses                                 │
+│                   GOOGLE GEMINI AI                      │
+│  • Natural language processing                          │
+│  • Context-aware generation                             │
+│  • Intelligent responses                                │
 └─────────────────────────────────────────────────────────┘
                           ↓
 ┌─────────────────────────────────────────────────────────┐
-│                    MONGODB DATABASE                      │
-│  • Materials with extracted text                         │
-│  • Attendance records                                    │
-│  • User information                                      │
+│                    MONGODB DATABASE                     │
+│  • Materials with extracted text                        │
+│  • Attendance records                                   │
+│  • User information                                     │
 └─────────────────────────────────────────────────────────┘
 ```
 
