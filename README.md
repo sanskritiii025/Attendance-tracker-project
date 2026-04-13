@@ -175,12 +175,7 @@ AUTOMATED--ATTENDANCE-TRACKER-AND-AI-POWERED-LEARNING/
 │       └── api.js               # API client with userId support
 │
 ├── Documentation/
-│   ├── AI_CHATBOT_README.md     # Feature documentation
-│   ├── SETUP_GUIDE.md           # Detailed setup instructions
-│   ├── ARCHITECTURE.md          # System architecture
-│   ├── EXAMPLE_QUERIES.md       # Query examples
-│   ├── QUICK_START.md           # Quick reference
-│   └── IMPLEMENTATION_SUMMARY.md # This implementation summary
+│   ├── README.md     # Feature documentation  
 │
 └── .env                         # Environment variables
 ```
